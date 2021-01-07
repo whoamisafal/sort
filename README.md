@@ -1,2 +1,2 @@
 # sort
-![Screenshot](/Capture.jpg)
+![Screenshot](Capture.JPG)
